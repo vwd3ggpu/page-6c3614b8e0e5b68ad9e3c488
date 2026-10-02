@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8de733570988a43075e69387",
+  "owner": "vwd3ggpu",
+  "repo": "page-6c3614b8e0e5b68ad9e3c488",
+  "title": "好家伙",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6c3614b8e0e5b68ad9e3c488",
+      "a": "好家伙",
+      "b": "",
+      "entity": "好家伙",
+      "brand": "好家伙",
+      "separator": "",
+      "path": "index.html",
+      "hash": "68eae90da5b3b0b101899a33f3501fd4c250263db2e4a305b19113ed23ae2c9c",
+      "content": {
+        "keyword1": "好家伙",
+        "keyword2": "",
+        "primary_entity": "好家伙",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "好家伙提供机场订阅与VPN网络加速服务，涵盖基础版至团队版流量套餐、多端客户端下载及流媒体与游戏线路说明，欢迎通过官网了解官方下载与使用方法。",
+          "AI_DESCRIPTION": "好家伙提供机场订阅与VPN网络加速服务，涵盖基础版至团队版流量套餐、多端客户端下载及流媒体与游戏线路说明，欢迎通过官网了解官方下载与使用方法。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#f3f1f7;color:#1f1a28;font-size:16px;line-height:1.75}a{color:#5b3d99;text-decoration:none}header{background:#ece8f4;border-bottom:1px solid #d8d0e8}#top{scroll-margin-top:8px}.nav{max-width:960px;margin:0 auto;padding:14px 16px;display:flex;flex-wrap:wrap;gap:12px 18px;align-items:center;justify-content:space-between}.brand{font-weight:700;color:#3d246b;font-size:1.12rem}.nav-links{display:flex;flex-wrap:wrap;gap:8px 16px}.hero{padding:84px 16px 56px;text-align:center;background:#ece8f4}.hero p.kicker{margin:0 0 18px;letter-spacing:.12em;font-size:.82rem;color:#6a5a88;text-transform:uppercase}h1{font-size:2.4rem;line-height:1.22;margin:0 0 18px;color:#3d246b;font-weight:750}h2{font-size:1.42rem;color:#3d246b;margin:8px 0 14px;padding-bottom:8px;border-bottom:2px solid #cfc4e6}h3{font-size:1.1rem;color:#4a2c7a;margin:18px 0 8px}.lead{max-width:620px;margin:0 auto;font-size:1.06rem;color:#4a4458}.wrap{max-width:960px;margin:0 auto;padding:28px 16px}section{margin-bottom:8px}.card{background:#fff;border:1px solid #e0d9ee;border-radius:12px;padding:18px;margin-bottom:14px}.plans{display:flex;flex-direction:column;gap:14px}.plan{background:#fff;border:1px solid #ddd6ea;border-radius:12px;padding:20px}.plan.featured{border:2px solid #5b3d99;background:#f8f5fc}.badge{display:inline-block;background:#5b3d99;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.5rem;font-weight:700;color:#5b3d99;margin:4px 0}.annual{font-size:.92rem;color:#5a5468;margin-bottom:10px}ul{padding-left:1.2em;margin:8px 0 0}.steps ol{padding-left:1.2em}.faq{padding-top:8px}.faq details{background:#fff;border:1px solid #ddd6ea;border-radius:10px;margin-bottom:12px;padding:2px 14px 10px}.faq summary{padding:14px 0;font-weight:650;color:#3d246b}.faq p{margin:0 0 8px;color:#3a3548}footer{background:#2f2540;color:#ddd6ea;padding:28px 16px;font-size:14px;line-height:1.7}footer a{color:#d4c4f0}.foot-wrap{max-width:960px;margin:0 auto}.ads{background:#3d3360;padding:12px 14px;border-radius:8px;margin:14px 0}.muted{color:#9a90b0}.map a,.friends a{margin-right:10px}#faq h2{font-size:1.55rem}@media(min-width:800px){.plans{flex-direction:row;align-items:stretch}.plan{flex:1}}</style><header><div class=\"nav\"><a class=\"brand\" href=\"#top\">好家伙官网</a><nav class=\"nav-links\" aria-label=\"页面导航\"><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"hero\"><p class=\"kicker\">官方网站 · 机场订阅 · VPN 加速</p><h1>好家伙</h1><p class=\"lead\">面向日常跨境访问与协作的网络加速服务。在此查看套餐、导入方式与客户端说明，按官方流程完成订阅即可使用。</p></div><div class=\"wrap\"><section id=\"intro\"><h2>品牌简介</h2><div class=\"card\"><p>好家伙是提供机场订阅与 VPN 网络加速的服务品牌，帮助用户在浏览、会议、内容播放和游戏场景中获得更稳定的跨境连接。节点覆盖常用地区，套餐按流量与同时在线设备数分层，支持按月或按年付费。</p><p>本页为好家伙官方网站说明页，集中介绍套餐差异、使用场景、客户端导入步骤与常见问题。下载与订阅请以官网公示入口为准，避免使用来源不明的安装包或分享链接。</p></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"card\"><h3>流媒体与内容访问</h3><p>在影视、音乐与直播平台播放时，可切换支持解锁的线路，减少卡顿与地区限制提示。基础版覆盖常用平台，旗舰版强调全节点原生流媒体能力。</p><h3>游戏与更新下载</h3><p>对延迟敏感的对局与客户端更新，可使用优化线路。旗舰版包含 IPLC 专线游戏加速说明，适合需要更稳定往返时延的用户。</p><h3>远程办公与学习</h3><p>访问代码仓库、网盘、会议系统与文献站点时，保持加密通道与相对固定的出口，降低中途中断对协作的影响。</p><h3>出行与多设备</h3><p>手机与电脑可按套餐额度同时在线。切换网络环境后重新选择延迟较低的节点即可继续使用，无需反复改系统代理。</p></div></section><section id=\"plans\"><h2>套餐与价格</h2><p>以下为当前公示档位，流量按月计算，年付价格已在各档注明。实际开通以结算页为准。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#download\">前往客户端说明</a></p></article><article class=\"plan featured\"><p class=\"badge\">常用选择</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#download\">前往客户端说明</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#download\">前往客户端说明</a></p></article></div></section><section id=\"guide\"><h2>操作说明</h2><div class=\"card steps\"><h3>选择并开通套餐</h3><p>根据每月流量、同时在线台数与是否需要游戏专线，在基础版、旗舰版、团队版中三选一。轻度浏览可选基础版；追剧与游戏更适合旗舰版；多人共用或高用量选团队版。</p><h3>保存订阅地址</h3><p>开通后会生成专属订阅链接。请仅在自用设备上保存，不要公开发布或写入不明第三方转换站点，以免被滥用导致流量异常。</p><h3>安装客户端并导入</h3><p>在系统应用商店或官网指引的通用客户端中新建订阅，粘贴链接并更新节点列表。首次连接建议选择延迟较低、负载正常的线路，再测试目标网站或应用。</p><h3>日常使用与排障</h3><p>出现缓冲或超时先切换节点；流量将尽时升级档位或等待月度重置。旗舰版与团队版可走优先工单。系统时间、权限与本地防火墙也会影响连接，导入前请核对。</p></div></section><section id=\"download\"><h2>客户端下载与导入</h2><div class=\"card\"><p>好家伙通过标准订阅对接常见加速客户端，而不是绑定单一封闭软件。请优先从系统官方商店获取客户端，再导入本站订阅，以降低安装来源风险。</p><h3>桌面端</h3><p>Windows 与 macOS 可使用支持订阅的图形客户端。导入后开启系统代理或 TUN 模式，浏览器与终端即可走节点。请关闭重复的系统 VPN 以免冲突。</p><h3>移动端</h3><p>iOS 与 Android 同样以订阅导入。首次授权 VPN 配置后，在通知栏可快速开关。移动网络与 Wi-Fi 切换时如掉线，重新点选节点即可。</p><h3>官网下载原则</h3><p>本页不托管安装包，避免版本过期或被调包。官方下载以好家伙官网公示的客户端说明与订阅导入为准。若某处声称“破解流量”或“共享机场”，请勿使用。</p><p><a href=\"#plans\">返回套餐</a> · <a href=\"#faq\">查看常见问题</a></p></div></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><details><summary>好家伙是什么服务？和普通加速器有何不同？</summary><p>好家伙是机场订阅加 VPN 网络加速服务：你获得的是可导入多端客户端的节点订阅，而不是单一浏览器插件。套餐按流量与设备数划分，并区分普通线路、流媒体解锁与 IPLC 游戏优化，便于按场景选择。</p></details><details><summary>如何进行官网下载与客户端导入？</summary><p>先在本页确认套餐，开通后复制订阅地址。再到 iOS、Android、Windows 或 macOS 的兼容客户端中添加订阅并更新。本站作为好家伙官方网站，只提供导入说明，不提供来路不明的安装文件。</p></details><details><summary>三个套餐该怎么选？年付有什么注意点？</summary><p>基础版适合每月约 100GB、最多 3 台设备的轻度使用；旗舰版提升到 300GB、5 台设备，并加强流媒体与游戏线路；团队版面向 20 台设备与 1000GB 量级。年付金额已在各档标明，适合用量稳定的用户，中途变更请以结算规则为准。</p></details><details><summary>支持哪些设备同时在线？超出会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超出额度时新设备可能无法认证或挤占旧会话，建议在客户端中下线闲置设备，或升级到更高档位。</p></details><details><summary>流量什么时候重置？用完还能上网吗？</summary><p>流量按自然月或计费周期重置，具体以开通时展示为准。用尽后连接可能限速或不可用，可升级套餐或等待下一周期。高峰时段即使有剩余流量，也建议避开拥挤节点。</p></details><details><summary>流媒体失败或游戏延迟高怎么处理？</summary><p>先更换标注解锁或游戏优化的节点，并确认客户端规则没有把对应域名直连。旗舰版强调全节点原生解锁与 IPLC 游戏加速；若仍失败，通过优先工单提供地区、应用名称与错误提示，便于排查。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"foot-wrap\"><p>好家伙官方网站 · 机场订阅与 VPN 梯子网络加速说明</p><p class=\"map\">网站地图：<a href=\"#top\">首页</a><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">说明</a><a href=\"#download\">下载</a><a href=\"#faq\">问答</a><a href=\"#\">sitemap.xml</a></p><div class=\"ads\">广告位：渠道与品牌合作展示区。本页仅作占位说明，不跳转外部投放脚本。</div><p class=\"friends\">友情链接：<a href=\"#\">网络工具导航</a><a href=\"#plans\">套餐一览</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#top\">返回顶部</a></p><p class=\"muted\">内容供了解好家伙套餐与导入流程。使用须遵守当地法律法规与目标网站条款。© 好家伙</p></div></footer>",
+          "hash": "802b8fd801285714b88634dedcda6d6a59fea6aad5afda0e3c1e2df634a8a734",
+          "seo": {
+            "title": "好家伙官网 | VPN梯子网络加速与机场订阅客户端下载",
+            "keywords": "好家伙,好家伙官网,好家伙VPN,好家伙机场,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "好家伙提供机场订阅与VPN网络加速服务，涵盖基础版至团队版流量套餐、多端客户端下载及流媒体与游戏线路说明，欢迎通过官网了解官方下载与使用方法。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "smalldolphin.cn",
+    "host": "p-1b0b3dcfec.smalldolphin.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "smalldolphin.cn",
+      "url": "https://smalldolphin.cn/",
+      "label": "Dogess",
+      "apex": "smalldolphin.cn",
+      "kind": null,
+      "identity": "qjcuyyd/page-39f60a6fda6840b1e92df788"
+    },
+    {
+      "host": "bgljob.cn",
+      "url": "https://bgljob.cn/",
+      "label": "好家伙",
+      "apex": "bgljob.cn",
+      "kind": null,
+      "identity": "kcmsskxse/page-aa8f237dfd70b919aae7a57b"
+    },
+    {
+      "host": "hnswfw.cn",
+      "url": "https://hnswfw.cn/",
+      "label": "好家伙",
+      "apex": "hnswfw.cn",
+      "kind": null,
+      "identity": "pdwnavmh/page-7250a3ff5c37f5c84b7445e4"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "df4e2cf4454e4eee0dd3a84eb29b83b38a2b3b4df44e7215265e090e17097680",
+    "sitemap.xml": "d7f475acccc0d4e16430d62ce42d6c721714b3735d064d0e8aaa9a6204592102",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3b93a38ffbbe671337dc5d7384921eff34fe68299a5d0fa53e465e4244f9edb1",
+    "robots.txt": "005ad62fdd90ce41a620981e9775d1aa9ee1faa51b8c8e980c17459bd15877cf",
+    "f863be7eab8db61bb7196b711860aef4.txt": "bf5e55e556d164aceabce751d657b507756a95eac3db4e66acdc6a6453134ca6"
+  },
+  "revision": "6792967a14267fe78942ad056bed92d09d330ae1f6af2923eb5a8c5643b8c034"
+}
